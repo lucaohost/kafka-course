@@ -1,1 +1,1 @@
-# kafka-project
+# Notes and Codes Kafka Course
